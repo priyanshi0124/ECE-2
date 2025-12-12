@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif
+}
+.navbar{
+    display: flex;
+     justify-content: space-between;
+ align-items: center;
+ background-color: #2196f3;
+ color: white;
+ padding: 10px 20px;
+ margin: 20px;
+ border: 2px solid #2b6cb0;
+}
+.menu{
+     display: flex;
+ gap: 20px;
+ list-style: none;
+}
+.logo{
+    clear: left;
+    color: whitesmoke ;
+}

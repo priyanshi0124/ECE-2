@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+}
+.box1{
+    display: inline-block;
+    width: 150px;
+    background-color: blueviolet;
+}
+.box2{
+    display: inline-block;
+    width: 150px;
+    background-color: green;
+}
+.text{
+    clear: both;
+    float: center;
+}

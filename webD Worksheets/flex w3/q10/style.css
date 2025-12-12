@@ -1,0 +1,19 @@
+.layout {
+ display: flex;
+ flex-direction: column;
+ height: 100vh;
+}
+.middle {
+ display: flex;
+ flex: 1;
+}
+header, footer {
+ background: #2196f3;
+ color: white;
+ text-align: center;
+ padding: 10px;
+}
+aside {
+ background-color: bisque;
+ width: 30%;
+padding:10px}

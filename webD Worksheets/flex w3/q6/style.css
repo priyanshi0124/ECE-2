@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    background-color: #f0f6ff;
+    margin: 20px;
+}
+.flex-container {
+    border: 2px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding:40px;
+    margin:20px;
+}
+
+.box{
+    background-color: rgb(195, 141, 231);
+    border: 2px solid rgb(8, 1, 20);
+    border-radius: 8px;
+    height: 450px;
+   width: 500px;
+}
